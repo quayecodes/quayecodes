@@ -99,3 +99,5 @@ const michael = {
 
 ⭐ Building consistently, learning publicly, engineering seriously.
 
+![snake gif](https://github.com/quayecodes/quayecodes/blob/output/github-contribution-grid-snake.svg)
+
